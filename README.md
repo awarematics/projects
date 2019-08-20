@@ -1,5 +1,6 @@
 # InfoLab Projects Hub
 - http://infoLab.kunsan.ac.kr
+- Advisor : Kwang Woo Nam
 
 ## PostGeoMedia
 - Wei Ding, Yong Hee Jung
