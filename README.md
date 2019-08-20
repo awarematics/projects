@@ -2,9 +2,9 @@
 
 
 ### PostGeoMedia
-#### Wei Ding, Yong Hee Jung
+#### - Wei Ding, Yong Hee Jung
 - url : http://postgeomedia.u-gis.net
- github : 
+- github : 
 
 ### DeepDBSCAN
 #### Jang You Park
