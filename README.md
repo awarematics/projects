@@ -14,7 +14,7 @@
 - Jang You Park
 - github : https://github.com/awarematics/2019_MCA_LX
 
-## GeoMedia RESTful Web Services
+## GeoMediaWeb : GeoMedia RESTful Web Services
 - Yong Hee Jung
 - github : ??
  
