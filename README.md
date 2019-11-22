@@ -11,7 +11,7 @@
 - Jang You Park
 - github : https://github.com/parkstar82/workspace_python
 
-## RoA : Discovering Regiion of Attrations from FoV-tagged Photos
+## RoA : Discovering Region of Attrations from FoV-tagged Photos
 - Jang You Park
 - github : https://github.com/awarematics/2019_MCA_LX
 
